@@ -1,2 +1,2 @@
-# Mui-Responsive
-I used MaterialUI for design on this project.Material UI has wide variety of forms elements.I created a Facebook App by using that features.
+# Mui-Responsive.
+I used MaterialUI for the design of this project. Material UI has a wide variety of form elements. I created a Facebook App by using those features.
